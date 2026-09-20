@@ -1,6 +1,0 @@
-*.class
-*.log
-.vscode/
-.idea/
-out/
-build/
